@@ -11,7 +11,7 @@ fill_magic_table() is to fill the L value of the table only
 
 genAddr() will generate dummy addresses
 
-addr_of() is similar to "&" in C language to get the address
+addr_of() is similar to "&" in C language to get the address(the index in the table)
 
 assign() is similar to "*ptr =" in C language to assign value & type to the pointer
 
